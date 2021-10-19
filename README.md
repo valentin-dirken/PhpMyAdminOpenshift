@@ -1,2 +1,2 @@
-# phpmyadminopenshift
-phpmyadminopenshift
+# PhpMyAdmin Openshift
+
